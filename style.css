@@ -36,11 +36,35 @@ header{
     border: 0;
     background-image: url('./assets/images/icon-menu.svg');
     background-repeat: no-repeat;
+    background-color: hsl(36, 100%, 99%);
 }
 nav{
     transform: translateX(1000px);
     transition: .5s ease-in-out;
     display: none;
+}
+h1{
+    margin: 1em 0;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 35px;
+}
+.grey{
+    color: hsl(233, 8%, 79%);
+    font-size: 15px;
+    line-height: 24px
+}
+.read{
+    background-color: hsl(5, 85%, 63%);
+    color: #fff;
+    text-decoration: none;
+    padding:1em 2em;
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: 2em 0;
+    letter-spacing: 2px;
+    font-size: 14px;
 }
 .attribution {
   font-size: 11px;
