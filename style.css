@@ -15,6 +15,13 @@ body {
 li{
     list-style: none;
 }
+img,picture{
+    max-width: 100%;
+    display: block;
+}
+.container{
+    padding: 1em;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
