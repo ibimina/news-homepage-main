@@ -18,6 +18,7 @@ li{
 img,picture{
     max-width: 100%;
     display: block;
+    width: 100%;
 }
 .container{
     padding: 2em 1em;
