@@ -22,6 +22,11 @@ img,picture{
 .container{
     padding: 1em;
 }
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
