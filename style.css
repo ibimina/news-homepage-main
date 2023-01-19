@@ -12,6 +12,9 @@ body {
   font-size: 16px;
   font-family: "Inter", sans-serif;
 }
+li{
+    list-style: none;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
