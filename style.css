@@ -20,12 +20,13 @@ img,picture{
     display: block;
 }
 .container{
-    padding: 1em;
+    padding: 2em 1em;
 }
 header{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 2em;
 }
 .mobile_navigation{
     width: 28px;
